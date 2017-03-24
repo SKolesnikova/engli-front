@@ -19,16 +19,15 @@ class SinglePhraseShow extends Component{
   }
 
   render(){
-    if(!this.props.article){
-      return <div> Getting article, please wait. </div>; 
+    if(!this.props.phrase){
+      return <div> Getting phrase, please wait. </div>;
     }
 
     return(
       <div className="container">
 
-      <h3>Title: {this.props.article.title} </h3>
-        <h3>Translate: {this.props.article.translate} </h3>
-
+      <h3>Title: {this.props.phrase.title} </h3>
+        <h3>Translate: {this.props.phrase.translate} </h3>
 
         <button className="btn btn-warning" onClick={this.deleteButtonClick.bind(this)}>
         Delete Phrase
@@ -40,7 +39,7 @@ class SinglePhraseShow extends Component{
 }
 
 function mapStateToProps(state){
-  return { article: state.articles.article}; 
+  return { phrase: state.phrases.phrase};
 }
 
 

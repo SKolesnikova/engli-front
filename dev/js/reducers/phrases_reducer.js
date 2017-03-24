@@ -1,6 +1,6 @@
 import {GET_PHRASES, GET_PHRASE} from '../actions/types';
 
-const INITIAL_STATE = {all: [], article: null};
+const INITIAL_STATE = {all: [], phrase: null};
 
 export default function(state = INITIAL_STATE, action){
   switch(action.type){
