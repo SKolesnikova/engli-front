@@ -54,16 +54,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".tm_properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_modules/performance-now/.tm_properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -91,6 +81,7 @@
         <option value="$PROJECT_DIR$/dev/js/components/NewPhrase.js" />
         <option value="$PROJECT_DIR$/dev/js/components/PhrasesHome.js" />
         <option value="$PROJECT_DIR$/dev/js/components/SinglePhraseShow.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -378,12 +369,12 @@
       <workItem from="1490182107728" duration="6697000" />
       <workItem from="1490251439325" duration="16242000" />
       <workItem from="1490343614090" duration="2473000" />
-      <workItem from="1490347863052" duration="1161000" />
+      <workItem from="1490347863052" duration="1370000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26573000" />
+    <option name="totallyTimeSpent" value="26782000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
@@ -426,14 +417,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dev/js/components/PhrasesHome.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
@@ -777,6 +760,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
           <folding />
         </state>
       </provider>
